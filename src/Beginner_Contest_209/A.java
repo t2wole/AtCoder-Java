@@ -21,4 +21,5 @@ public class A {
 		else
 			System.out.println(b - a + 1);	
 	}
+	
 }
