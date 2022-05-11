@@ -14,4 +14,5 @@ public class A {
 		
 		System.out.println(n >= 5 || n == 1 ? "Yes" : "No");
 	}
+	
 }
